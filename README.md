@@ -6,15 +6,31 @@
  My goal is too simple and which is, I'm always committed to me for giving the best quality output to my clients and establish a good relationship. I strongly believe in professionalism, Hard work & Honesty. Welcome for the long tram work relationship.
 Thank You So Much 🖤
 
-Skills:  ◼ React.js ◼ Next.js ◼ Tailwind CSS ◼Bootstrap ◼ HTML5&CSS3 ◼JavaScript & jQuery
+Skills: 
+◼HTML5 
+◼️CSS3
+◼️React js 
+◼️Next js 
+◼️Tailwind CSS  
+◼️Bootstrap 
+◼️JavaScript & jquery 
+◼️Redux 
+◼️Redux ToolKit(RTK)  
+◼️Rest Api 
+◼️Context API 
+◼️Firebase  
+◼️psd file 
+◼️Figma file 
+◼️Xd 
+◼️Git  
+◼️GitHub
 
 - 🔭 I’m currently working on   
 - 🌱 I’m currently learning JavaScript , Next js 
 - 💬 Ask me about front end development , react js 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' bg-white>](https://github.com/mdabutalebdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdabutalebdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdabutalebdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdabutalebdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdabutalebdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mdabutalebdev)  
-
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdabutalebdev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabutalebdev)](https://github.com/anuraghazra/github-readme-stats)
